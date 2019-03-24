@@ -1,0 +1,6 @@
+rootProject.name = 'springboot-cloud'
+include 'product'
+include 'display'
+include 'eureka-server'
+include 'zuul'
+
